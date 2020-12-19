@@ -12,4 +12,4 @@
 
 # link
 
-file:///Users/tomhazel/Desktop/student_directory/Homework/tehazel.github.io_Code_Refractor/css/index.html#search-engine-optimization
+file:///Users/tomhazel/Desktop/student_directory/tehazel.github.io_assingment_1/css/index.html
